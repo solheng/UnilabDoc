@@ -1,4 +1,4 @@
-site_name: AIPOD_sec_dev_tutorial
+site_name: AIPOD二次开发手册
 nav:
     - Home: index.md
     - 文档说明: 文档说明.md
