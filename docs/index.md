@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# 废了废了真的废了！
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
