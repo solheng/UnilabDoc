@@ -1,5 +1,5 @@
 site_name: AIPOD_sec_dev_tutorial
-pages:
+nav:
     - Home: index.md
     - 文档说明: 文档说明.md
     - 版本信息: 版本信息.md
