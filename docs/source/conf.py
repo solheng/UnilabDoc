@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'aipod二次开发手册'
-copyright = '2022, 衡浩'
-author = '衡浩'
+copyright = '2022, tianfu'
+author = 'hengh'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -64,3 +64,4 @@ source_parsers = {
 }
 
 source_suffix = ['.rst', '.md']
+extensions = ['myst_parser']
