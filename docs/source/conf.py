@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'aipod_sec_dev_test'
-copyright = '2022, henghao'
-author = 'henghao'
+project = 'aipod二次开发手册'
+copyright = '2022, 衡浩'
+author = '衡浩'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -55,6 +55,9 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 from recommonmark.parser import CommonMarkParser
+import sphinx_rtd_theme
+html_theme = "sphinx_rtd_theme"
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 source_parsers = {
     '.md': CommonMarkParser,
