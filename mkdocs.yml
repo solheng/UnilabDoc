@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: AIPOD_sec_dev_tutorial
+pages:
+    - Home: index.md
+    - 文档说明: 文档说明.md
+    - 版本信息: 版本信息.md
+    - 项目简介: 项目简介.md
+    - 项目架构: 项目结构.md
+    - 原型介绍: 原型介绍.md
+    - 二次开发教程: 二次开发教程.md
+    - 非功能需求: 非功能需求.md
+    - 附录: 附录.md
+theme: readthedocs
