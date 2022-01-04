@@ -9,4 +9,13 @@ nav:
     - 二次开发教程: 二次开发教程.md
     - 非功能需求: 非功能需求.md
     - 附录: 附录.md
-theme: readthedocs
+
+# mathjax
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+# 作者
+site_author: 'hengh'
+# 主题
+theme:
+    name: readthedocs
