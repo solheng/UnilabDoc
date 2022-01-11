@@ -1,15 +1,16 @@
-# 废了废了真的废了！
+# 本文档基于mkdocs工具进行编写
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+完整的官方文档请访问 [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+
+## mkdocs命令行
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## 项目布局
 
     mkdocs.yml    # The configuration file.
     docs/
