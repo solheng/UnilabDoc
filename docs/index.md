@@ -23,17 +23,4 @@
 | Content Cell | Content Cell  | Content Cell |
 | Content Cell | Content Cell  | Content Cell |
 
-## 代码块
-```
-Fenced code blocks are like Stardard
-Markdown regular code blocks, except that
-theye not indented and instead rely on a
-start and end fence lines to delimit the code
-block.
-```
 
-Cupcake indexer is a snazzy new project for indexing small cakes.
-
-![Screenshot](img/screenshot.png)
-
-*Above: Cupcake indexer in progress*
