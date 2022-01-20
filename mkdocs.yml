@@ -1,5 +1,6 @@
 site_name: AIPOD二次开发手册
 nav:
+    - home: index.md
     - 项目简介: 项目简介.md
     - 逻辑概念结构: 逻辑概念结构.md
     - 二次开发教程: 二次开发教程.md
