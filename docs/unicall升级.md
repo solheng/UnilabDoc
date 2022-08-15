@@ -15,3 +15,15 @@
 
 如上图所示，执行过程中出现拒绝访问的报错信息，可关闭当前unicall相关程序或重启计算机后再次重新运行更新脚本
 
+类库缺失
+
+* 异常点检测算法工具库（pyod）
+* 机器学习模型合并工具库combo
+* xgboost
+* seaborn
+* minepy
+
+通过pip安装对应类库
+`pip install package`
+
+
