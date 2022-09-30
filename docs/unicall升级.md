@@ -23,7 +23,7 @@
 * seaborn
 * minepy
 
-通过pip安装对应类库
-`pip install package`
+cmd 通过pip安装对应类库
+`pip install {package}`
 
 
