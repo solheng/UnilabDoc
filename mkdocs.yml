@@ -2,12 +2,13 @@ site_name: Unicall二次开发手册
 nav:
     - home: index.md
     - 项目简介: 项目简介.md
+    - 部署升级: unicall部署与升级.md
     - 逻辑概念结构: 逻辑概念结构.md
     - 二次开发教程: 二次开发教程.md
     - 工具箱开发: 工具箱搭建文档.md
     - 非功能需求: 非功能需求.md
     - 附录(API大全): 附录.md
-    - 升级指南: unicall升级.md
+
 
 
 # mathjax
