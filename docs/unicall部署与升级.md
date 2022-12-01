@@ -85,4 +85,14 @@ cmd 通过pip安装对应类库
 * 检查并修改根目录的工具箱配置文件unicall_widgets的内容，确保所需工具箱是对应的
 * 免license版本的unicall 在一台机器测试完移植到另外机器部署时要注意 删除 packages目录下的license.dat文件（因为免license机制限制， 迁移后不删除会导致报错）
 ## exe安装版 安装包制作
-* todo
+1.  下载安装NSIS_v251_Build_20160601 - NSISFANS.exe安装NSIS（https://github.com/tong0401/mz-document/blob/master/%E7%94%A8%E5%88%B0%E7%9A%84%E8%BD%AF%E4%BB%B6/NSIS_v251_Build_20160601%2B-%2BNSISFANS/NSIS_v251_Build_20160601%20-%20NSISFANS.exe）
+2.	新建并编写编译脚本内容 unicall.nsi文件
+![img.png](img/编译指令脚本截图.png)
+3. 启动NSIS，打开修改后的nsi文件，编译生成安装程序
+![img.png](img/nsis界面.png)
+![img.png](img/打开nsis文件.png)
+![img.png](img/编译生成安装程序.png)
+4. 编译完成后，在nsi文件目录下可找到安装程序文件，修改文件名称
+![img.png](img/结果文件截图.png)
+
+`需要注意的是，打包文件存储路径下不可以包含任何unicall工程文件，否则会打包失败，打包前请删除`
